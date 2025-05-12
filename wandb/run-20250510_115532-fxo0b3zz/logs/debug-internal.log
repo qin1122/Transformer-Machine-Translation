@@ -1,0 +1,8 @@
+{"time":"2025-05-10T11:55:32.467642865Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/root/Homeworks/NLP/HW_Transformer/my_transformer/wandb/run-20250510_115532-fxo0b3zz/logs/debug-core.log"}
+{"time":"2025-05-10T11:55:32.976807473Z","level":"INFO","msg":"created new stream","id":"fxo0b3zz"}
+{"time":"2025-05-10T11:55:32.976903653Z","level":"INFO","msg":"stream: started","id":"fxo0b3zz"}
+{"time":"2025-05-10T11:55:32.976942634Z","level":"INFO","msg":"writer: Do: started","stream_id":"fxo0b3zz"}
+{"time":"2025-05-10T11:55:32.97699147Z","level":"INFO","msg":"handler: started","stream_id":"fxo0b3zz"}
+{"time":"2025-05-10T11:55:32.977043832Z","level":"INFO","msg":"sender: started","stream_id":"fxo0b3zz"}
+{"time":"2025-05-10T11:55:33.517656484Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-12T00:24:34.574607867Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/qinhn040516-nanjing-university/Transformer%20Translation%20Experiments/fxo0b3zz/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}

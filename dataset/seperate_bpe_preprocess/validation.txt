@@ -1,0 +1,500 @@
+▁I ▁had ▁a ▁very ▁good ▁time ▁today .	▁我今天 玩得很开心 。
+▁We ▁must ▁go ▁to ▁school .	▁我们必须 去学校 了 。
+▁F ire ▁is ▁always ▁dangerous .	▁火 是 非常 危险的 。
+▁I ▁want ▁to ▁see ▁your ▁mother .	▁我想 看看 你的 母亲 。
+▁It ' s ▁not ▁that ▁far .	▁不是 那么 远 。
+▁She ▁thought ▁that ▁I ▁was ▁a ▁doctor .	▁她 以 为我 是 大 夫 。
+▁Almost ▁everybody ▁was ▁invited .	▁几乎 每个人都 被 邀请 了 。
+▁He ▁can ▁read ▁well ▁enough .	▁他能 读 得很好 。
+▁He ▁is ▁likely ▁to ▁win ▁the ▁game .	▁他有 可能 赢 得 比赛 。
+▁I ' m ▁sorry .	▁对不起 。
+▁I ▁have ▁to ▁go ▁meet ▁with ▁Tom .	▁我必须 去 见 汤姆 。
+▁The ▁curtain ▁fell .	▁ 谢 幕 了 。
+▁Mary ▁is ▁not ▁poor . ▁On ▁the ▁cont r ary , ▁she ▁is ▁quite ▁rich .	▁玛丽 不 穷 , 相 反 , 她 相当 富 裕 。
+▁You ▁do ▁have ▁ch oices .	▁你有 选择 。
+▁Both ▁Tom ▁and ▁Mary ▁can ▁speak ▁French .	▁汤姆和玛丽 两个 人都 会 说法语 。
+▁You ' re ▁not ▁too ▁late .	▁你还 不太 晚 。
+▁The ▁cake ▁is ▁delicious .	▁ 蛋糕 很美 味 。
+▁She ▁got ▁wet ▁to ▁the ▁skin .	▁她 浑 身 湿 透 了 。
+▁After ▁two ▁days ▁our ▁food ▁gave ▁out .	▁ 过 两天 我们的 食物 就 发 完了 。
+▁I ▁should ▁tell ▁Tom ▁what ▁I ▁have ▁to ▁do .	▁我应该 告诉汤姆 我 该 做甚么 。
+▁Keep ▁looking .	▁ 继续 看 !
+▁May ▁I ▁pay ▁with ▁a ▁travel ers ' ▁check ?	▁我可以 用 旅行 支 票 支 付 吗 ?
+▁Does ▁Tom ▁have ▁to ▁be ▁there ?	▁汤姆 必须 在那里 吗 ?
+▁Only ▁peace ▁can ▁save ▁the ▁world .	▁只有 和平 能够 拯 救 世界 。
+▁Where ▁should ▁I ▁put ▁my ▁laun d ry ?	▁我应该 把 我要 洗 的 衣服 放 在哪里 ?
+▁Tom ▁isn ' t ▁nearly ▁as ▁smart ▁as ▁he ▁thinks ▁he ▁is .	▁汤姆 并不 像 他 自 认为 的 那么 聪明 。
+▁She ▁is ▁as ▁beautiful ▁as ▁S now ▁Wh ite .	▁她 像 白 雪 公 主 一样 漂亮 。
+▁It ▁seems ▁we ▁are ▁in ▁the ▁same ▁boat .	▁ 看起来 我们 是在 一条 船 上 。
+▁I ▁don ' t ▁like ▁summer .	▁我不喜欢 夏天 。
+▁My ▁mother ▁boil ed ▁ten ▁eggs .	▁妈妈 煮 了 十 只 蛋 。
+▁My ▁mother ▁was ▁an ▁al cohol ic .	▁我母亲 是个 酒 鬼 。
+▁Tom ▁had ▁to ▁go ▁himself .	▁汤姆不 得不 自己 去 。
+▁Traffic ▁downtown ▁is ▁all ▁backed ▁up .	▁ 市 中心 的 交通 都 堵 塞 了 。
+▁Nobody ▁was ▁injured .	▁没有人 受伤 。
+▁She ▁took ▁care ▁of ▁the ▁children .	▁她 照顾 孩子 。
+▁I ' d ▁like ▁to ▁go ▁to ▁the ▁m all .	▁我想 去 商 场 。
+▁The ▁top ▁of ▁the ▁mountain ▁is ▁covered ▁in ▁snow .	▁山 顶 被 雪 覆 盖 了 。
+▁They ▁are ▁having ▁a ▁party ▁tomorrow .	▁明天 他们 将 举行 派对 。
+▁His ▁uncle ▁died ▁five ▁years ▁ago .	▁他的 叔叔 五 年前 去世了 。
+▁Could ▁you ▁introduce ▁me ▁to ▁a ▁lawyer ?	▁你能帮我 介绍 一名 律师 吗 ?
+▁Please ▁tell ▁me ▁about ▁your ▁problem .	▁请告诉我 你的 问题 。
+▁We ▁saw ▁a ▁funny ▁movie ▁last ▁Sunday .	▁我们 上 星期天 看 了一 场 很 有趣的 电影 。
+▁B etter ▁be ▁the ▁head ▁of ▁a ▁cat ▁than ▁the ▁tail ▁of ▁a ▁lion .	▁ 宁 为 猫 头 不 为 狮 尾 。
+▁Come ▁and ▁see ▁me ▁tomorrow .	▁明天 来 看看 我 。
+▁How ▁about ▁having ▁dinner ▁together ?	▁ 一起 吃 晚餐 怎么样 ?
+▁Don ' t ▁put ▁the ▁cart ▁before ▁the ▁horse .	▁不要把 本 末 倒 置 。
+▁This ▁is ▁surpr ising .	▁这是 令人 吃惊 的 。
+▁My ▁room ▁is ▁just ▁below .	▁我的房间 就 在 楼 下 。
+▁Where ▁are ▁you ▁now ?	▁你现在 在哪里 呢 ?
+▁I ▁said ▁to ▁myself , ▁" T hat ' s ▁a ▁good ▁idea ."	▁我对 自己 说 , “ 那 是个好 主意 。”
+▁She ▁wants ▁to ▁know ▁who ▁sent ▁the ▁flowers .	▁她 想知道 是谁 送 的 花 。
+▁The ▁audience ▁was ▁large ly ▁made ▁up ▁of ▁very ▁young ▁children .	▁大 部分 观 众 是 年 幼 的 儿童 。
+▁Who ▁wrote ▁these ▁two ▁letters ?	▁谁 写 了这 两 封信 ?
+▁Tom ▁and ▁Mary ▁are ▁in ▁the ▁same ▁class .	▁汤姆和玛丽 在 同 一个 班 级 。
+▁Today , ▁many ▁people ▁worry ▁about ▁losing ▁their ▁jobs .	▁今天 , 许多 人 担心 失去 工作 。
+▁May ▁I ▁use ▁your ▁pencil ?	▁我可以 用 你的 铅笔吗 ?
+▁Do ▁you ▁eat ▁out ▁often ?	▁你 常常 外 食 吗 ?
+▁The ▁dr ug ▁problem ▁is ▁intern ational .	▁ 毒 品 是 国际 性 的问题 。
+▁Tom ▁doesn ' t ▁want ▁to ▁go ▁alone .	▁汤姆不想 一个人 走 。
+▁It ▁was ▁love ▁at ▁first ▁sight .	▁那 是一 见 钟 情 。
+▁Do ▁you ▁regret ▁marry ing ▁me ?	▁你 后悔 跟我 结婚 吗 ?
+▁His ▁comment ▁was ▁conc ise ▁and ▁to ▁the ▁point .	▁他的 评论 简 洁 且 击 中 要 害 。
+▁Tom ▁often ▁goes ▁cross - c ount ry ▁skiing .	▁Tom 经常 滑雪 穿 过 城市 。
+▁Stop ▁talking .	▁不要 说话了 。
+▁Do ▁you ▁go ▁to ▁a ▁private ▁school ?	▁你在 私 立 学校 读书 吗 ?
+▁Do ▁you ▁need ▁an ▁ambul ance ?	▁你需要 救 护 车吗 ?
+▁Are ▁you ▁saying ▁my ▁life ▁is ▁in ▁danger ?	▁你在 说 我 有 生命 危险 吗 ?
+▁I ' m ▁not ▁busy ▁now .	▁我现在 不 忙 。
+▁He ▁runs ▁in ▁the ▁park ▁every ▁day .	▁他 每天都 在 公园 中 跑步 。
+▁Please ▁lend ▁me ▁your ▁knife .	▁请 借我 你的 刀 。
+▁We ▁couldn ' t ▁do ▁that .	▁我们 做 不到 。
+▁This ▁sentence ▁doesn ' t ▁make ▁sense .	▁这 句话 没 意思 。
+▁When ▁did ▁you ▁go ▁to ▁work ?	▁你什么时候 上班 ?
+▁Thank ▁you ▁for ▁drawing ▁a ▁bird ▁for ▁me .	▁谢谢你 为我 画 鸟 。
+▁It ▁rained ▁for ▁a ▁week .	▁雨 下 了一 周 。
+▁You ' re ▁quite ▁forget ful .	▁你很 健 忘 。
+▁There ' s ▁no ▁chance ▁of ▁rain ▁today .	▁今天 不可能 下雨 。
+▁Did ▁Tom ▁send ▁you ?	▁汤姆 派 出了 你们 吗 ?
+▁We ' ve ▁got ▁to ▁start ▁thinking ▁about ▁rec y cl ing .	▁我们必须 开始 考虑 回 收 。
+▁Un der age ▁drinking ▁is ▁a ▁crime .	▁ 未 满 年龄 饮 酒 是 罪 行 。
+▁Tom ▁probably ▁knows ▁why ▁the ▁meeting ▁was ▁postponed .	▁汤姆 大概 知道 会议 延 期 的 原因 。
+▁You ▁shouldn ' t ▁asso ciate ▁with ▁men ▁like ▁that .	▁你不应该 把我 和 那样 的人 联系 在一起 。
+▁Tom ▁stayed ▁at ▁this ▁hotel ▁for ▁three ▁weeks .	▁汤姆 在这 宾 馆 待了 三 周 。
+▁This ▁work ▁doesn ' t ▁pay .	▁这个 工作 没有 酬 劳 。
+▁I ▁hope ▁that ▁is ▁not ▁the ▁case .	▁我希望 事情 并 非 如此 。
+▁He ▁ignored ▁his ▁father ' s ▁advice .	▁他不 顾 他 父亲 的 忠告 。
+▁Tom ▁didn ' t ▁understand ▁what ▁the ▁teacher ▁said .	▁汤姆没 明白 老师 说了什么 。
+▁Don ' t ▁forget ▁where ▁you ▁put ▁it .	▁不要 忘记 你 放 在哪里 。
+▁Tom ▁avoid s ▁Mary ▁whenever ▁possible .	▁汤姆 尽 量 避 开 玛丽 。
+▁Do ▁you ▁really ▁believe ▁that ▁story ?	▁你真的 相信 那 故事 吗 ?
+▁The ▁teacher ▁told ▁us ▁a ▁funny ▁story .	▁老师 跟我们 说 了一个 有趣的故事 。
+▁The ▁service ▁here ▁is ▁awful .	▁这里 的 服务 很 糟糕 。
+▁This ▁school ▁has ▁many ▁students .	▁这个 学校 有很多 学生 。
+▁I ▁have ▁no ▁excuse .	▁我没有 借 口 。
+▁How ▁was ▁your ▁weekend ?	▁你 周末 过 得 怎么样 ?
+▁I ▁got ▁a ▁be e ▁st ing .	▁我被 蜜 蜂 蛰 了一下 。
+▁He ▁doesn ' t ▁like ▁coffee .	▁他 不喜欢 喝 咖啡 。
+▁What ▁time ▁do ▁you ▁usually ▁get ▁up ?	▁你 通常 什么时候 起床 ?
+▁I ' ll ▁join ▁you ▁later .	▁我一 会儿 就 来 。
+▁Tom ▁is ▁taller ▁than ▁I ▁am .	▁汤姆 比我 高 。
+▁I ▁really ▁like ▁my ▁cow ork ers .	▁我 确实 喜欢 我的 同 事 。
+▁That ' s ▁life .	▁人 生 就是 如此 。
+▁Which ▁bed ▁do ▁you ▁want ▁to ▁use ?	▁你想 睡 哪 张 床 ?
+▁I ▁am ▁poor ▁at ▁swimming .	▁我不 擅长 游泳 。
+▁A ▁person ▁view s ▁things ▁different ly ▁acc ording ▁to ▁whether ▁they ▁are ▁rich ▁or ▁poor .	▁每 一个人 对 事情 的 看法 不同 是 依 据 他们 是 富有 还是 贫 穷 。
+▁My ▁father ▁made ▁me ▁what ▁I ▁am .	▁我父亲 让我 知道 了我 自己 是谁 。
+▁I ▁got ▁a ▁good ▁grade ▁in ▁English .	▁我的 英文 得到了 好 成绩 。
+▁Close ▁your ▁eyes , ▁and ▁count ▁to ▁ten .	▁ 闭 上你的 眼睛 , 然后 数 到 十 。
+▁Don ' t ▁be ▁afraid ▁to ▁make ▁mistakes ▁when ▁speaking ▁English .	▁说英语 的时候不要 怕 犯错 。
+▁Should n ' t ▁you ▁be ▁studying ?	▁你不应该 在 学习 吗 ?
+▁I ▁had ▁a ▁telephone ▁call ▁from ▁her .	▁她 打 了一 通 电话 给我 。
+▁She ▁can ▁sing ▁better ▁than ▁anybody ▁else ▁in ▁her ▁class .	▁她 唱歌 唱 得 比 班 上 任何 一个人 好 。
+▁Nothing ▁is ▁missing .	▁ 什么 也没 少 。
+▁The ▁bath tub ▁was ▁filled ▁with ▁hot ▁water ▁and ▁flower ▁pet als .	▁ 浴 缸 里 满 是 热 水 和 花 瓣 。
+▁I ▁want ▁everyone ▁to ▁help ▁me ▁clean ▁the ▁house .	▁我希望 所有 人都 来 帮我 打扫 房子 。
+▁She ' s ▁younger ▁than ▁him .	▁她 比 他 年轻 。
+▁I ' m ▁not ▁turning ▁back .	▁我不 回 去 。
+▁We ' re ▁going ▁to ▁climb ▁that ▁mountain .	▁我们 将 要去 爬 那 座山 。
+▁It ▁was ▁terrible .	▁真 糟糕 。
+▁This ▁isn ' t ▁what ▁I ▁ordered .	▁这不是 我 点 的食物 。
+▁Man ▁is ▁the ▁only ▁animal ▁that ▁can ▁speak .	▁人 是 唯一 会 说话 的 动物 。
+▁Don ' t ▁take ▁things ▁so ▁seriously .	▁不要把 事情 看 得 这么 严重 。
+▁I ▁don ' t ▁like ▁wine .	▁我不喜欢 红 酒 。
+▁I ▁work ▁with ▁her ▁boyfriend .	▁我和 她的 男 朋友 在一起 上班 。
+▁Can ▁you ▁tell ▁me ▁how ▁to ▁get ▁to ▁the ▁train ▁station ?	▁你可以 告诉我 如何 到 火车站 吗 ?
+▁Why ▁are ▁you ▁guys ▁so ▁angry ?	▁你们 为什么 这么 生气 ?
+▁I ' m ▁sorry .	▁我很抱歉 。
+▁I ▁don ' t ▁like ▁learning ▁ir re g ular ▁ver bs .	▁我不喜欢 学习 不 规则 动 词 。
+▁He ▁just ▁arrived .	▁他 刚 到 。
+▁B ro ccoli ▁is ▁one ▁of ▁the ▁he althi est ▁vegetables .	▁ 西 蓝 花 是最 健康 的 蔬菜 之一 。
+▁She ▁made ▁a ▁mess ▁of ▁the ▁work .	▁她 工作 做得 乱 七 八 糟 。
+▁Please ▁tell ▁me ▁your ▁address .	▁请告诉我 你的 地址 。
+▁My ▁father ▁loves ▁pizza .	▁我父亲 爱 吃 比萨 。
+▁He ▁enjoy s ▁watching ▁baseball ▁games ▁on ▁TV .	▁他喜欢 看电视 上的 棒球 比赛 。
+▁A ▁fly ▁can ▁walk ▁on ▁the ▁ceiling .	▁ 苍 蝇 能 在 天 花 板 上 走 。
+▁He ▁wears ▁Chinese - st yle ▁clothes .	▁他 穿 中 式 服 装 。
+▁I ' m ▁an ▁honest ▁person .	▁我是个 老 实 人 。
+▁Where ▁did ▁you ▁go ▁last ▁Sunday ?	▁上 周日 你 去哪儿 了 ?
+▁He ▁came ▁to ▁Japan ▁seven ▁years ▁ago .	▁他 七 年前 来 日本 。
+▁Why ▁should ▁anyone ▁be ▁surprised ?	▁为什么 任何人 应该 感到 惊 喜 ?
+▁I ▁think ▁Tom ▁is ▁very ▁cool .	▁我认为汤姆 很 酷 。
+▁You ▁have ▁good ▁reason ▁to ▁be ▁angry .	▁你有 充 分 的 理由 生气 。
+▁She ▁got ▁out ▁of ▁the ▁car .	▁她从 车 里 出 来了 。
+▁Put ▁out ▁the ▁light .	▁ 熄 灯 。
+▁The ▁program ▁starts ▁at ▁nine ▁o ' clock .	▁这个 节 目 九点 开始 。
+▁Did ▁you ▁come ▁here ▁alone ?	▁你 是一个 人 来 这儿 的吗 ?
+▁Everyone , ▁please ▁be ▁quiet .	▁ 各 位 , 请 安静 。
+▁We ▁found ▁the ▁foot pr ints ▁in ▁the ▁sand .	▁我们 发现了 沙 滩 上的 脚 印 。
+▁I ▁was ▁late ▁to ▁school .	▁我 上学 迟到了 。
+▁Where ▁is ▁the ▁police ▁station ?	▁警察 局 在哪里 ?
+▁I ' ll ▁be ▁at ▁home ▁in ▁the ▁morning .	▁我 早上 会 在家 。
+▁Do ▁it ▁now .	▁现在 就 做 。
+▁I ▁visited ▁my ▁grandmother ' s ▁house .	▁我 拜访 了我 祖母 的房子 。
+▁I ▁can ' t ▁believe ▁Tom ▁just ▁did ▁that .	▁我不 敢 相信 汤姆 那么 做了 。
+▁Where ▁is ▁the ▁coffee ▁shop ?	▁这家 咖啡 馆 在哪里 ?
+▁Tom ▁never ▁turned ▁up ▁again .	▁汤姆没有 再 出现 。
+▁Can ▁I ▁ask ▁you ▁some ▁questions ?	▁我能 问 你们 一些 问题吗 ?
+▁Is ▁it ▁safe ▁to ▁sk ate ▁on ▁this ▁lake ?	▁在 这个 湖 上 滑 冰 安全 吗 ?
+▁You ' ve ▁been ▁dece ived .	▁你 被 骗 了 。
+▁I ▁certainly ▁wouldn ' t ▁want ▁to ▁be ▁seen ▁with ▁Tom .	▁我 当然 不想 被 人 看见 跟汤姆 在一起 。
+▁He ▁introduced ▁his ▁daughter ▁to ▁me .	▁他把他的 女儿 介绍 给我 认识 。
+▁Watch ▁out ▁for ▁th ie ves ▁around ▁here .	▁在这 附近 当 心 小偷 。
+▁How ▁about ▁taking ▁a ▁walk ▁with ▁us ?	▁ 跟我们 一起 散步 怎么样 ?
+▁You ▁should ▁have ▁kept ▁it ▁secret .	▁你应该 保 密 的 。
+▁Some ▁people ▁believe ▁in ▁ghosts .	▁有些人 相信 鬼 。
+▁He ▁drank ▁a ▁lot ▁yesterday .	▁昨天 他 喝 了很多 。
+▁They ' re ▁very ▁close ▁friends .	▁他们是 非常 亲 密 的朋友 。
+▁He ▁must ▁be ▁about ▁for ty .	▁他 应该 4 0 岁 左右 吧 。
+▁I ▁found ▁the ▁new ▁magazine ▁very ▁interesting .	▁我 发现 这本 新 杂志 非常有趣 。
+▁Do ▁you ▁wish ▁to ▁complain ?	▁你想 抱怨 吗 ?
+▁I ▁don ' t ▁like ▁the ▁way ▁he ▁speaks .	▁我不喜欢 他说的话 。
+▁Tom ▁didn ' t ▁want ▁to ▁disapp oint ▁Mary .	▁汤姆不想 让 玛丽 失望 。
+▁He ▁f ought ▁against ▁rac ial ▁disc rim ination .	▁他 反对 种 族 歧 视 。
+▁It ' s ▁already ▁11 .	▁已经 是 1 1 点了 。
+▁I ▁stayed ▁at ▁home ▁last ▁night .	▁我昨晚 待在家里 。
+▁We ▁bought ▁some ▁vegetables ▁and ▁fish ▁at ▁the ▁market .	▁我们在 市场 上 买了 些 蔬菜 和 鱼 。
+▁She ▁was ▁beautiful ▁when ▁she ▁was ▁young .	▁她 年轻 时 很 美丽 。
+▁There ▁was ▁a ▁short age ▁of ▁fuel .	▁ 燃 料 短 缺 。
+▁She ▁made ▁me ▁wait ▁for ▁half ▁an ▁hour .	▁她 让我 等了 半 小时 。
+▁It ▁happened ▁a ▁long ▁time ▁ago .	▁这 事 发生在 很多 年 以前 。
+▁It ▁looks ▁like ▁a ▁d uck .	▁它 看起来 像 一只 鸭 子 。
+▁F ive ▁g all ons ▁of ▁regular , ▁please .	▁请 照 平 常 一样 五 加 仑 。
+▁We ▁sell ▁orange ▁juice .	▁我们 卖 柳橙 汁 。
+▁I ▁enjoyed ▁talking ▁with ▁him ▁at ▁the ▁party .	▁ 聚会 上 我 和他 谈 得很 愉快 。
+▁I ▁like ▁winter ▁better ▁than ▁summer .	▁我喜欢 冬天 胜过 夏天 。
+▁My ▁mother ▁gets ▁up ▁early ▁every ▁morning .	▁我妈妈 每天早上 早起 。
+▁How ▁many ▁people ▁are ▁there ▁in ▁your ▁family ?	▁你 家 有 几 口 人 ?
+▁I ▁think ▁you ' re ▁a ▁lot ▁stronger ▁than ▁you ▁know .	▁我认为你 比 你想 象 的 更 强 。
+▁Let ▁me ▁think .	▁让我 想 一 想 。
+▁Tom ▁is ▁in ▁the ▁living ▁room , ▁sleeping ▁on ▁the ▁c ouch .	▁汤姆在 客 厅 , 躺 在 长 沙 发 上 睡觉 。
+▁I ' m ▁really ▁sorry ▁to ▁hear ▁that .	▁ 听到 这样 的 消息 我 真的 很难 过 。
+▁I ▁was ▁very ▁impressed ▁by ▁his ▁story .	▁他的 故事 给我 留 下了 很 深 的 印象 。
+▁When ▁did ▁you ▁graduate ▁from ▁high ▁school ?	▁你什么时候 中 学 毕业 ?
+▁You ▁ask ▁too ▁many ▁questions .	▁你 问题 太多了
+▁He ▁crossed ▁the ▁river ▁in ▁a ▁small ▁boat .	▁他 乘 小 船 过 河 。
+▁Do ▁you ▁know ▁where ▁I ▁live ?	▁你知道 我 住 哪 吗 ?
+▁They ▁say ▁she ▁and ▁her ▁husband ▁can ' t ▁agree ▁on ▁anything .	▁他们 说她 和 她的 丈夫 不可能 对 任何事 达 成 协 议 。
+▁Turn ▁up ▁the ▁TV .	▁把 电视 声音 调 大 点儿 。
+▁He ▁has ▁visited ▁France ▁three ▁times .	▁他 访问 过 法国 三次 。
+▁A I ▁stands ▁for ▁artificial ▁intellig ence .	▁ A I ▁ 代表 人 工 智 能 。
+▁He ▁plays ▁golf ▁every ▁weekend .	▁他 每个 周末 打高尔夫球 。
+▁It ' s ▁amazing .	▁太 神 奇 了 。
+▁You ▁must ▁not ▁y ield ▁to ▁te mpt ation .	▁你不应该 屈 服 在 诱 惑 之 下 。
+▁Walk ▁faster , ▁or ▁you ' ll ▁miss ▁the ▁train .	▁走 快 一点 , 不 然 你会 错过 火车 。
+▁Tom ▁runs ▁very ▁fast .	▁汤姆 跑得 快 。
+▁I ' m ▁looking ▁for ▁books ▁on ▁R om an ▁history .	▁我在 找 关于 古 罗马 历史 的书 。
+▁Don ' t ▁leave ▁me ▁here ▁alone .	▁别 把我 一个人 留 在这里 。
+▁He ▁is ▁old ▁enough ▁to ▁drive .	▁他 年纪 够 大 可以 开车 。
+▁I ▁felt ▁a ▁drop ▁of ▁rain ▁on ▁my ▁head .	▁我感觉 有 滴 雨 落 在 头 上 。
+▁Why ▁should ▁it ▁be ▁necessary ?	▁为什么 它是 必要 的 ?
+▁Why ▁worry ▁about ▁Tom ?	▁为什么 要 担心 Tom ?
+▁I ▁expect ▁that ▁he ▁will ▁help ▁us .	▁我 期望 他会 帮助 我们 。
+▁Did ▁you ▁find ▁your ▁contact ▁lens es ?	▁你 找到 你的 隐 形 眼镜 了吗 ?
+▁Does ▁he ▁have ▁any ▁brothers ?	▁他有 任何 的 兄弟 吗 ?
+▁Tr ouble ▁began ▁immediately .	▁麻烦 说 来 就 来 。
+▁I ▁won ' t ▁let ▁him ▁come ▁here ▁again .	▁我不会 再 让他 来这里 。
+▁I ▁will ▁show ▁you ▁some ▁pictures .	▁我会给你 们 看 些 照片 。
+▁There ▁are ▁four ▁people ▁in ▁my ▁family .	▁我家 有 四 个人 。
+▁I ▁have ▁to ▁lose ▁weight .	▁我必须 要 减 肥 了 。
+▁Have ▁you ▁read ▁today ' s ▁paper ▁yet ?	▁你 看过 今天 的 报纸 了吗 ?
+▁We ' re ▁fed ▁up ▁with ▁your ▁complain ing .	▁我们 受 够 了 你的 抱怨 。
+▁We ▁were ▁very ▁sorry ▁we ▁couldn ' t ▁help ▁them .	▁我们很 遗憾 无法 帮助 他们 。
+▁There ▁was ▁no ▁one ▁in ▁the ▁room .	▁ 房间里 没有人 。
+▁That ▁is ▁mine . ▁I ▁don ' t ▁know ▁where ▁yours ▁is .	▁那个 是我的 。 我 不知道 你的 在哪里 。
+▁May ▁I ▁go ▁to ▁the ▁rest room ?	▁我可以 去 洗手 间 吗 ?
+▁Tom ▁happened ▁to ▁meet ▁Mary ▁at ▁the ▁supermarket .	▁汤姆在 超 市 偶 遇 玛丽 。
+▁This ▁whis ky ▁is ▁very ▁strong .	▁这 种 威 士 忌 太 烈 了 。
+▁Why ▁do ▁you ▁need ▁my ▁help ?	▁你为甚么 需要 我 帮助 ?
+▁She ' s ▁not ▁as ▁old ▁as ▁Mary .	▁她没有 玛丽 年纪 大 。
+▁Tom ▁got ▁rid ▁of ▁his ▁old ▁books .	▁汤姆 扔 掉 了他的 旧 书 。
+▁I ▁did ▁it ▁myself .	▁我 自己 做的 。
+▁I ' m ▁consider ing ▁studying ▁in ▁America ▁next ▁year .	▁我在 考虑 明年 去 美国 学习 。
+▁She ▁got ▁married ▁in ▁her ▁te ens .	▁她 十 几岁 时 就 结婚了 。
+▁He ▁missed ▁the ▁last ▁train .	▁他 错过了 最后一 班火车 。
+▁Have ▁you ▁read ▁this ▁book ▁already ?	▁你 读过 这本书 了吗 ?
+▁Tom ▁doesn ' t ▁want ▁to ▁lose ▁Mary .	▁汤姆不想 失去 玛丽 。
+▁My ▁grandfather ▁was ▁a ▁policeman .	▁我的 祖父 是 警察 。
+▁This ▁is ▁the ▁room ▁where ▁the ▁body ▁was ▁found .	▁这 就是 发现 尸 体 的 房间 。
+▁I ▁am ▁interested ▁in ▁this ▁story .	▁我对 这个 故事 感兴趣 。
+▁How ▁far ▁is ▁it ▁to ▁the ▁airport ?	▁到 机场 有多 远 ?
+▁He ▁was ▁the ▁first ▁to ▁come .	▁他是 第一个 来的 。
+▁Tom ▁wasn ' t ▁smiling ▁when ▁he ▁entered ▁the ▁room .	▁汤姆 进 房间 时 没有 微笑 。
+▁Mary ▁isn ' t ▁really ▁sick . ▁She ' s ▁only ▁pret ending ▁to ▁be ▁sick .	▁玛丽 不是 真 病 。 她 只是 装 病 。
+▁I ▁don ' t ▁want ▁it ▁anymore .	▁我 再 也不 想要 了 。
+▁We ▁played ▁p ok er ▁the ▁entire ▁day .	▁我们 用 了一 整天 打 扑 克 。
+▁Give ▁me ▁the ▁number .	▁把 那个 号码 给我 。
+▁I ▁want ▁to ▁reserve ▁a ▁room .	▁我想 预 定 一个 房间 。
+▁Dad ▁gave ▁me ▁a ▁book , ▁and ▁my ▁little ▁brother ▁gave ▁me ▁a ▁pen .	▁ 爸爸 给了我 一本书 , ▁ 弟弟 给了我 一 枝 笔 。
+▁Do ▁you ▁study ▁every ▁day ?	▁你们 每天都 读书 吗 ?
+▁I ▁don ' t ▁have ▁the ▁address ▁now .	▁我现在 没有 地址 。
+▁The ▁meaning ▁of ▁this ▁sentence ▁is ▁obs c ure .	▁这 句 句子 意思 模 糊 。
+▁Has ▁she ▁finished ▁her ▁work ▁yet ?	▁她 完成 了她的 工作 吗 ?
+▁He ▁is ▁not ▁as ▁smart ▁as ▁his ▁older ▁brother .	▁他不 像 他的 兄 长 那样 聪明 。
+▁Something ' s ▁wrong ▁with ▁my ▁camera .	▁我的 相机 有 毛 病 。
+▁I ▁don ' t ▁want ▁to ▁hear ▁any ▁more ▁of ▁your ▁complain ing .	▁我不想 再 听 你 抱怨 了 。
+▁All ▁he ▁thinks ▁about ▁is ▁himself .	▁他 只 顾 自己的 利 益 。
+▁Now adays ▁many ▁people ▁travel ▁by ▁car .	▁现在 很多 人 开车 去 旅行 。
+▁Is ▁there ▁any ▁poss ibility ▁of ▁his ▁res ig ning ?	▁他有 可能 辞职 吗 ?
+▁Do ▁you ▁like ▁st rawberries ?	▁你喜欢 草 莓 吗 ?
+▁Three ▁months ▁later , ▁Tom ▁was ▁dead .	▁ 三个月 后 , 汤姆 死了 。
+▁I ▁have ▁no ▁way ▁of ▁knowing ▁that .	▁我 无 从 知道 。
+▁Were ▁you ▁in ▁Boston ▁last ▁summer ?	▁你 上 个 夏 季 在波士顿 吗 ?
+▁I ▁lost ▁my ▁job ▁and ▁I ▁have ▁no ▁money . ▁I ' m ▁at ▁my ▁wit ' s ▁end .	▁我 失 业 又 没 钱 。 真 不 知 该 何 去 何 从 。
+▁Are ▁there ▁any ▁other ▁suggestions ?	▁ 还有 其他 建议 吗 ?
+▁They ▁kissed ▁each ▁other .	▁他们 亲 吻 了 。
+▁I ▁arrived ▁later ▁than ▁usual .	▁我 比 平 常 晚 到 。
+▁Can ' t ▁you ▁discount ▁it ▁a ▁little ?	▁你不能 打 一点 折 吗 ?
+▁The ▁girl ▁has ▁no ▁mother .	▁这个 女孩 没有 母亲 。
+▁This ▁is ▁the ▁house ▁I ▁lived ▁in ▁when ▁I ▁was ▁young .	▁这是我 年轻 时候 住 的房子 。
+▁Are ▁you ▁students ?	▁你们 是 学生 吗 ?
+▁I ▁promise ▁it ▁won ' t ▁happen ▁again .	▁我 保证 它 不会 再 发生 。
+▁She ▁is ▁a ▁me re ▁child .	▁她 只 是个孩子 。
+▁Why ▁did ▁you ▁cry ?	▁你为什么 哭 ?
+▁She ▁was ▁on ▁the ▁ver ge ▁of ▁crying .	▁她 要 哭 出 来了 。
+▁It ' s ▁unlikely ▁that ▁he ▁did ▁anything ▁wrong .	▁他 看来 没有 做 错 甚么 。
+▁My ▁father ▁often ▁goes ▁to ▁America ▁on ▁business .	▁我爸爸 经常 去 美国 出 差 。
+▁It ' s ▁getting ▁dark . ▁I ▁wonder ▁if ▁it ' s ▁going ▁to ▁rain .	▁天 变 暗 了 。 我 不知道 是 不是 要 下雨 。
+▁Do ▁we ▁have ▁enough ▁food ?	▁我们有 足够 的食物 吗 ?
+▁I ▁will ▁stand ▁by ▁you ▁whatever ▁happens .	▁不 论 发生 什么事 , 我都会 在 你 身 边 。
+▁Be ▁careful ▁on ▁your ▁way ▁back ▁home .	▁ 回家 的路上 注意 安全 。
+▁I ' ll ▁call ▁you .	▁我会 打电话 给你 。
+▁This ▁is ▁your ▁book .	▁这是你的 书 。
+▁Don ' t ▁pay ▁any ▁attention ▁to ▁Tom .	▁ 千 万 别 理 汤姆 。
+▁I ▁owe ▁you ▁ten ▁dollars .	▁我 欠 你 10 美元 。
+▁I ▁don ' t ▁have ▁any ▁change .	▁我没 任何 零钱 。
+▁Which ▁is ▁heav ier , ▁lead ▁or ▁gold ?	▁ 哪个 比较 重 , 铅 还是 黄 金 ?
+▁The ▁door ▁is ▁locked ▁at ▁nine ▁o ' clock .	▁ 九 点钟 锁门 。
+▁The ▁flag ▁is ▁up .	▁ 旗 子 升 起了 。
+▁You ▁made ▁the ▁mistake ▁on ▁purpose , ▁didn ' t ▁you ?	▁你 故意 犯 这个 错 , ▁是 吗 ?
+▁I ▁admitted ▁that ▁I ▁didn ' t ▁know ▁how ▁to ▁do ▁that .	▁我承认 我 不知道 怎么做 。
+▁How ▁often ▁do ▁the ▁buses ▁run ?	▁ 公共 汽车 隔 多久 一 班 ?
+▁They ▁can ' t ▁see ▁me .	▁他们 看 不见 我 。
+▁I ▁prefer ▁to ▁rem ain ▁se ated .	▁我 更 想 继续 坐 著 。
+▁She ▁got ▁through ▁her ▁work ▁before ▁five .	▁她在 五 点钟 前 做 完了 她的 工作 。
+▁What ' ll ▁you ▁be ▁doing ▁over ▁the ▁weekend ?	▁你 整个 周末 会 做什么 ?
+▁She ▁kept ▁me ▁waiting ▁for ▁30 ▁minutes .	▁她 让我 等了 半 小时 。
+▁Who ▁is ▁next ?	▁下 一个 是谁 ?
+▁He ▁won ▁everything .	▁他 赢 得 一切 了 。
+▁My ▁brother ▁is ▁small ▁but ▁strong .	▁我哥哥 虽 然 矮 小 可 是 很 强 壮 。
+▁I ▁didn ' t ▁know ▁what ▁to ▁do ▁then .	▁那 时 我 不知道 该 怎么办 。
+▁Which ▁book ▁is ▁yours ?	▁哪 本 是你的 书 ?
+▁Are ▁you ▁saying ▁Tom ' s ▁hiding ▁something ▁from ▁us ?	▁你 说 Tom 对我们 隐 藏 了一些 事情 ?
+▁The ▁boy ▁made ▁fun ▁of ▁the ▁girl .	▁这个男孩 取 笑 了这个 女孩 。
+▁We ▁have ▁some ▁dec is ions ▁to ▁make .	▁我们要 做 些 决定 。
+▁Stop ▁swear ing , ▁please .	▁请 别 再 发 誓 了 。
+▁I ▁promised ▁him ▁that ▁I ▁would ▁come ▁today .	▁我 答 应 他 我 今天 会来 。
+▁There ' s ▁no ▁way ▁off ▁the ▁island .	▁没有 办法 离开 这个 岛 。
+▁Tom ▁is ▁like ▁my ▁brother .	▁汤姆 像 我的 母亲 一样 。
+▁Tom ▁is ▁wearing ▁gloves .	▁汤姆 戴 着 手 套 。
+▁I ' d ▁like ▁to ▁go ▁with ▁Tom .	▁我想 跟汤姆 走 。
+▁How ▁cute !	▁多 可爱 啊 !
+▁I ▁didn ' t ▁mean ▁to ▁do ▁that .	▁我不是 故意 那样做 。
+▁Did ▁you ▁hear ▁the ▁news ?	▁你 听到 新 闻 了吗 ?
+▁She ▁was ▁in ▁trouble ▁because ▁she ▁lost ▁her ▁passport .	▁她 遇到了 麻烦 , 因为 她 弄 丢了 她的 护照 。
+▁I ▁don ' t ▁like ▁wearing ▁socks .	▁我不喜欢 穿 袜子 。
+▁She ▁has ▁no ▁sense ▁of ▁beauty .	▁她没有 审 美 感 。
+▁The ▁enemy ▁dropped ▁many ▁bom bs ▁on ▁the ▁factory .	▁ 敌人 在 工厂 投 下了 很多 炸 弹 。
+▁You ▁shouldn ' t ▁eat ▁too ▁much ▁candy .	▁你不应该 吃 太多 糖 果 。
+▁I ▁managed ▁to ▁repair ▁my ▁car ▁by ▁myself .	▁我 自己 搞 定 , 修 好 了我的 车 。
+▁Wine ▁helps ▁with ▁dig estion .	▁ 葡萄酒 帮助 消 化 。
+▁We ▁have ▁four ▁French ▁class es ▁a ▁week .	▁我们 一周 有 四 堂 法语 课 。
+▁You ▁must ▁control ▁yourself .	▁你必须 控制 自己 。
+▁The ▁news ▁made ▁her ▁sad .	▁这个 消息 让她 很 伤 心 。
+▁He ▁has ▁lived ▁here ▁for ▁one ▁week .	▁他已经 住在这里 一个 星期 了 。
+▁Don ' t ▁be ▁too ▁sens itive ▁to ▁critic ism .	▁不要 对 批 评 太 敏 感 了 。
+▁His ▁low ▁salary ▁prevent s ▁him ▁from ▁buying ▁the ▁house .	▁他的 低 薪 水 让他 买 不了 房 。
+▁I ▁must ▁help ▁her ▁at ▁any ▁cost .	▁我必须 不 惜 一切 代 价 帮助 她 。
+▁How ▁old ▁are ▁you ?	▁你 几岁 ?
+▁He ▁may ▁have ▁taken ▁the ▁wrong ▁train .	▁他可能 搭 错 火车 了 。
+▁I ' d ▁like ▁to ▁see ▁a ▁doctor .	▁我想 看 医生 。
+▁A ▁wha le ▁is ▁a ▁m ammal .	▁ 鲸 鱼 是 哺 乳 动物 。
+▁You ▁can ▁drive ▁a ▁car , ▁can ' t ▁you ?	▁你会 开车 , 不是吗 ?
+▁It ▁is ▁likely ▁to ▁rain ▁tomorrow .	▁明天 有 可能会 下雨 。
+▁How ▁much ▁longer ▁will ▁you ▁stay ▁in ▁Boston ?	▁你在 波士顿 再 待多久 ?
+▁What ' s ▁the ▁purpose ▁of ▁your ▁visit ?	▁您 此 行 的 目的 是什么 ?
+▁Is ▁anybody ▁there ?	▁那 边 有人 吗 ?
+▁Have ▁you ▁ch os en ▁a ▁major ▁yet ?	▁你 选 好 专 业 了吗
+▁This ▁is ▁just ▁for ▁you .	▁这是 只 给 你的 。
+▁Don ' t ▁disturb ▁me ▁while ▁I ' m ▁studying .	▁当我 学习 的时候不要 打扰 我 。
+▁It ' s ▁obvious ▁why ▁his ▁stomach ▁hurts .	▁他 为什么 会 胃 痛 的 原因 很 明显 。
+▁Today ▁I ' m ▁feeling ▁mel an chol ic .	▁今天 我很 忧 郁 。
+▁It ▁would ▁be ▁great ▁if ▁you ▁could ▁sing .	▁如果你 唱歌 的话 一定 很棒 。
+▁F our ▁hundred ▁million ▁people ▁speak ▁English ▁as ▁their ▁first ▁language .	▁ 四 亿 人 以 英语 作 为 他们的 第一 语言 。
+▁You ' re ▁an ▁optimist .	▁你 是个 乐 观 主义 者 。
+▁I ▁could ▁hear ▁birds ▁singing ▁outside ▁my ▁window .	▁我能 听见 鸟 在 窗 外 歌 唱 。
+▁How ▁long ▁will ▁this ▁rope ▁hold ?	▁这条 绳 子 能 撑 多久 ?
+▁It ▁will ▁cost ▁around ▁10,000 ▁yen .	▁这 将 花 费 约 100 00 日元 。
+▁I ▁have ▁neither ▁seen ▁nor ▁heard ▁of ▁such ▁a ▁thing .	▁我没 见过 也没 听过 这样 的事 。
+▁Who ▁do ▁you ▁think ▁they ▁were ?	▁你认为 他们 是谁 ?
+▁Can ▁I ▁speak ▁with ▁the ▁teacher ?	▁我能 和 老师 说话 吗 ?
+▁Is ▁it ▁something ▁I ▁said ?	▁ 是我 说 的吗 ?
+▁I ▁like ▁taking ▁walks .	▁我喜欢 散步 。
+▁That ▁requ ires ▁careful ▁consideration .	▁这 需要 慎 重 考虑 。
+▁She ▁is ▁gr ac ious ▁to ▁everyone .	▁她对 谁 都很 和 蔼 可 亲 。
+▁Where ▁was ▁this ▁picture ▁taken ?	▁这张 照片 在哪儿 照 的 ?
+▁All ▁the ▁boys ▁in ▁class ▁worked ▁hard .	▁ 课 堂 上 所有的 男生 都很 用 功 。
+▁He ▁stole ▁money ▁from ▁her ▁wallet .	▁他从 她的 钱包 偷了 钱 。
+▁I ▁have ▁no ▁doub ts .	▁我没有 疑 问 。
+▁What ▁do ▁you ▁suppose ▁this ▁could ▁be ?	▁你认为 这 是什么 ?
+▁I ▁am ▁leaving ▁at ▁four .	▁我 四 点 要 离开 。
+▁Let ' s ▁go ▁home .	▁让我们 回家 吧 。
+▁He ▁threw ▁a ▁rock ▁into ▁the ▁pond .	▁他 扔 一 块 石头 到 池 塘 里 。
+▁I ▁gave ▁them ▁clothing ▁and ▁some ▁food .	▁我 给了 他们 衣服 和 一些 食物 。
+▁I ▁miss ▁Boston .	▁我想 念 波士顿 。
+▁What ▁nonsense ▁are ▁you ▁talking ▁now ?	▁你 胡 说什么 呢 ?
+▁It ' s ▁hot ▁today , ▁isn ' t ▁it ?	▁今天 很 热 , 不是吗 ?
+▁Two ▁for ▁the ▁lunch ▁bu ff et , ▁please .	▁ 两 人 份 自 助 午餐 , 谢谢 。
+▁My ▁dog ▁goes ▁everywhere ▁with ▁me .	▁我的 狗 总是 跟著 我 。
+▁The ▁swim m ers ▁were ▁numb ▁with ▁cold .	▁ 游泳 选 手 们 冻 僵 了 。
+▁It ▁will ▁be ▁fine ▁this ▁afternoon .	▁今天下午 天气 会 很好 。
+▁Tom ▁doesn ' t ▁want ▁to ▁let ▁Mary ▁go .	▁Tom ▁不 想 让 Mary 走
+▁I ▁wish ▁you ▁had ▁been ▁there .	▁但愿 你 去过 那里 。
+▁I ▁didn ' t ▁think ▁you ▁were ▁so ▁old .	▁我不 相信你 有 那么 老 。
+▁We ' ve ▁got ▁too ▁much ▁work ▁to ▁do .	▁我们要 做的 工作 太多了 。
+▁Many ▁students ▁like ▁to ▁study ▁in ▁the ▁morning .	▁许多 学生 喜欢 在 早上 学习 。
+▁She ▁ext ended ▁her ▁stay ▁by ▁five ▁days .	▁她 延 长 停 留 五 天 。
+▁I ▁ran ▁into ▁Mary ▁at ▁a ▁party ▁last ▁week .	▁上 星期 在 一次 派对 中 我 遇到了 玛丽 。
+▁The ▁man ▁got ▁away ▁from ▁the ▁city .	▁这 名 男 子 逃 离 了这个 城市 。
+▁We ▁have ▁to ▁try ▁to ▁communicate ▁with ▁them .	▁我们要 设法 跟 他们 交 流 。
+▁It ▁might ▁be ▁a ▁wedding .	▁这 可能 是一 场 婚礼 。
+▁I ' ve ▁never ▁lived ▁on ▁a ▁farm , ▁but ▁both ▁of ▁my ▁parents ▁grew ▁up ▁on ▁farm s .	▁我从 没有 住在 农 场 , 但 我的 父母 都在 农 场 长大 。
+▁We ▁enjoyed ▁singing ▁songs ▁together .	▁我们喜欢 一起 唱歌 。
+▁We ▁were ▁dri ven ▁to ▁the ▁wall .	▁我们 被 逼 得 走 投 无 路 了 。
+▁How ▁long ▁will ▁you ▁be ▁staying ▁here ?	▁您 将 在这里 待多久 ?
+▁He ▁said ▁that ▁you ▁had ▁better ▁go .	▁他 说你 最好 去 。
+▁Let ' s ▁go ▁by ▁bus .	▁让我们 坐 公共 汽车 去 。
+▁I ▁have ▁no ▁time .	▁我没 时间 。
+▁I ' ve ▁wor n ▁hol es ▁in ▁my ▁socks .	▁我把 袜子 穿 破 了 。
+▁I ▁don ' t ▁know ▁whether ▁Tom ▁will ▁eat ▁with ▁us ▁or ▁not .	▁我不知道 Tom 是否 和 我们 一起 吃饭 。
+▁My ▁father ▁sometimes ▁goes ▁abroad .	▁我父亲 偶尔 出国 。
+▁I ▁had ▁a ▁good ▁night ' s ▁sleep .	▁我 睡 了一 整夜 的好 觉 。
+▁I ' m ▁very ▁sorry ▁I ▁came ▁home ▁so ▁late .	▁我很抱歉 那么 晚 回家 。
+▁No ▁comment .	▁ 禁 止 评论 。
+▁If ▁Tom ▁doesn ' t ▁do ▁what ▁he ' s ▁supposed ▁to ▁do , ▁please ▁let ▁me ▁know .	▁如果 汤姆 没有 做 他 应 当 做的事 , 请 让我 知道 。
+▁The ▁pr ince ▁fell ▁in ▁love ▁with ▁a ▁wood cut ter ' s ▁daughter .	▁ 王 子 爱 上 了一个 樵 夫 的 女儿 。
+▁Tom ▁got ▁first ▁prize , ▁didn ' t ▁he ?	▁汤姆 得了 第 一名 , 不是吗 ?
+▁We ▁tried ▁to ▁comp r om ise ▁with ▁them .	▁我们 试著 和 他们 妥 协 。
+▁I ▁didn ' t ▁expect ▁that ▁result .	▁我没有 期望 得到 这样 的 结果 。
+▁He ' s ▁such ▁a ▁sweet heart .	▁他 真是 甜 心 。
+▁My ▁body ▁ac hes ▁all ▁over .	▁我全 身 酸 痛 。
+▁What ▁do ▁you ▁think ▁about ▁this ▁plan ?	▁你觉得 这个计划 怎么样 ?
+▁He ▁failed ▁the ▁exam , ▁but ▁he ▁doesn ' t ▁care ▁too ▁much .	▁他 考试 失败了 , 但他 不太 在 意 。
+▁I ▁am ▁going ▁to ▁Hawaii ▁next ▁year .	▁我 明年 要去 夏 威 夷 。
+▁Tom ▁is ▁more ▁act ive .	▁汤姆 更 活 跃 。
+▁I ' ve ▁got ▁a ▁headache .	▁我 头痛 。
+▁He ▁was ▁accused ▁of ▁stealing ▁money .	▁他被 指 控 偷 钱 。
+▁Take ▁your ▁time . ▁There ' s ▁no ▁rush .	▁ 慢慢 来 , 不 急 。
+▁The ▁chan ces ▁are ▁he ' s ▁already ▁heard ▁the ▁news .	▁他有 可能 已经 得 知 这 消息 。
+▁Do ▁you ▁want ▁any ▁of ▁these ▁flowers ?	▁你要 这些 花 中的 任何 一 朵 吗 ?
+▁This ▁amount ▁incl ud es ▁tax .	▁这个 价格 含 了 税 。
+▁P ull ▁up ▁your ▁stock ings .	▁把你的 丝 袜 拉 上去 。
+▁Tom ▁was ▁the ▁only ▁one ▁who ▁was ▁punished .	▁汤姆是 唯一 受 罚 的人 。
+▁One ▁hundred ▁and ▁fifty ▁people ▁entered ▁the ▁mar ath on ▁race .	▁ 1 50 个人 参加了 马 拉 松 比赛 。
+▁We ▁both ▁know ▁why ▁I ' m ▁here .	▁我们都 知道 我 为甚么 在这里 。
+▁He ' s ▁always ▁been ▁living ▁in ▁Tokyo .	▁他 一直 住在 东京 。
+▁There ▁was ▁a ▁big ▁fire ▁last ▁night .	▁昨晚 发生 了一 场 很大的 火灾 。
+▁May ▁I ▁come ▁and ▁see ▁you ▁now ?	▁我现在 可以 来 看看 你 吗 ?
+▁It ' s ▁a ▁waste ▁of ▁time ▁and ▁money .	▁这是 在 浪费 时间 和 金钱 。
+▁Who ▁do ▁you ▁think ▁broke ▁the ▁window ?	▁你认为 是谁 打破 了 窗户 ?
+▁The ▁cor al ▁re ef ▁is ▁the ▁reg ion ' s ▁pr ime ▁att ract ion .	▁ 珊 瑚 礁 是 这个 地 区 的主 要 景 点 。
+▁He ▁is ▁very ▁tall .	▁他很 高 。
+▁I ▁want ▁a ▁few ▁empty ▁glasses .	▁我要 一些 空 的 玻璃 杯 。
+▁She ▁was ▁making ▁tea .	▁她 正在 泡 茶 。
+▁I ▁don ' t ▁have ▁class es ▁today .	▁我今天 没 课 。
+▁What ▁time ▁shall ▁I ▁pick ▁you ▁up ?	▁我该 几点 去 接 你 ?
+▁Who ▁did ▁you ▁hang ▁out ▁with ▁last ▁weekend ?	▁你 上 周末 跟 谁 闲 逛 了 ?
+▁I ▁have ▁lost ▁my ▁umbrella ▁somewhere ▁in ▁the ▁park . ▁I ▁have ▁to ▁buy ▁one .	▁我的 雨 伞 遗 失 在 公园里 某 个 地方 。 我 必须 再 买 一把 。
+▁This ▁is ▁the ▁worst ▁book ▁I ' ve ▁ever ▁read .	▁这是我 读过 的书 里面 写的 最 差 的 一本 了 。
+▁The ▁situation ▁is ▁worse ▁than ▁I ▁thought .	▁ 情况 比我 想 的 还 坏 。
+▁People ▁love ▁to ▁talk .	▁人们 就是 爱 说话 。
+▁Can ▁you ▁put ▁some ▁sun t an ▁lot ion ▁on ▁my ▁back ?	▁你能 在 我的 背 上 涂 些 防 晒 霜 吗 ?
+▁I ' m ▁not ▁as ▁brave ▁as ▁Tom .	▁我不 像 汤姆 那样 勇敢 。
+▁You ▁can ▁del et e ▁that ▁now .	▁你现在 可以 删 除 它 。
+▁Do ▁you ▁know ▁the ▁difference ▁between ▁a ▁mic ro s c ope ▁and ▁a ▁te les c ope ?	▁你知道 显 微 镜 和 望 远 镜 的 差 别 吗 ?
+▁" What ' s ▁going ▁on ▁in ▁the ▁cave ? ▁I ' m ▁curious ." ▁" I ▁have ▁no ▁idea ."	▁“ 洞 里 发生了什么 ? 我 很好 奇 。” “ 我 一点 也 不知道 。”
+▁I ▁appreciate ▁your ▁help ▁in ▁cl ar if ying ▁this .	▁我 感谢 你 帮助 澄 清 。
+▁I ▁have ▁just ▁been ▁to ▁the ▁post ▁office .	▁我刚 刚 去了 邮局 。
+▁I ▁have ▁an ▁opinion .	▁我有一个 意见 。
+▁I ▁have ▁a ▁bad ▁headache ▁today .	▁今天 我 头痛 欲 裂 。
+▁This ▁is ▁my ▁sister .	▁这是我的 妹妹 。
+▁I ▁need ▁a ▁bigger ▁box .	▁我需要 个 更 大的 箱子 。
+▁We ' ve ▁run ▁short ▁of ▁money .	▁我们 缺 钱 了 。
+▁That ' s ▁very ▁big .	▁那是 很大的 。
+▁We ▁didn ' t ▁know ▁what ▁to ▁do ▁next .	▁我们 不知道 下一步 要做什么 。
+▁She ▁was ▁born ▁last ▁year .	▁她 去年 出生 。
+▁Sorry , ▁but ▁can ▁you ▁show ▁me ▁the ▁way ▁to ▁the ▁next ▁village ?	▁能 不能 麻烦 你 告诉我 去 邻 村 怎么 走 ?
+▁If ▁you ' re ▁happy , ▁I ' m ▁happy .	▁如果你 高兴 , 我就 高兴 。
+▁My ▁father ▁began ▁jogging ▁last ▁month .	▁我父亲 上 个月 开始 慢 跑 。
+▁A ▁soccer ▁team ▁cons ist s ▁of ▁eleven ▁play ers .	▁一个 足球 队 由 十 一个 球 员 组 成 。
+▁I ▁wrote ▁it ▁myself .	▁我 自己 写了 它 。
+▁What ▁did ▁you ▁go ▁to ▁Kyoto ▁for ?	▁你为什么 去 京都 ?
+▁Stand ▁back ▁from ▁the ▁rope .	▁ 退 到 绳 子 后 面 。
+▁The ▁rev olut ion ▁has ▁brought ▁about ▁many ▁changes .	▁这场 革 命 已经 带 来了 很多 改变 。
+▁I ▁am ▁unable ▁to ▁finish ▁my ▁homework .	▁我无法 完成 我的 作业 。
+▁I ▁am ▁a ▁teacher .	▁我是个 老师 。
+▁We ' d ▁better ▁wake ▁Tom ▁up .	▁我们 最好 叫醒 汤姆 。
+▁They ▁live ▁on ▁the ▁other ▁side ▁of ▁the ▁road .	▁他们 住在 路 对面 。
+▁How ▁long ▁are ▁you ▁going ▁to ▁be ▁in ▁Boston ?	▁你要 在波士顿 留 多久 ?
+▁I ▁want ▁to ▁move ▁out ▁of ▁this ▁cr amp ed ▁room ▁as ▁soon ▁as ▁I ▁can .	▁我想 尽快 从 这个 不 透 气 的 屋 子里 出去 。
+▁My ▁aunt ▁made ▁me ▁a ▁new ▁skirt .	▁我 姑姑 做了一 条新裙子 给我 。
+▁If ▁you ▁can ' t ▁have ▁children , ▁you ▁could ▁always ▁adop t .	▁如果你 不能 有 孩子 , 你 总 能 领 养 。
+▁I ▁thought ▁she ▁was ▁going ▁to ▁kill ▁me .	▁我认为 她 要 杀 我 。
+▁Do ▁you ▁believe ▁ghosts ▁exist ?	▁你相信 鬼 存在 吗 ?
+▁My ▁father ▁died ▁of ▁a ▁sub ar ach no id ▁he m or r ha ge ▁when ▁I ▁was ▁four te en .	▁我 十 四 岁的时候 , 父亲 死于 蛛 网 膜 下 出 血 。
+▁I ▁know ▁you ' re ▁going ▁to ▁say ▁no .	▁我知道你 要 说不 。
+▁She ▁got ▁a ▁new ▁CD ▁player ▁yesterday .	▁她昨天 得到了 一个 新的 CD 播 放 机 。
+▁He ▁used ▁to ▁live ▁here .	▁他 以前 住 在这儿 。
+▁I ▁agree ▁with ▁that ▁opinion .	▁我同意 那个 意见 。
+▁She ▁married ▁a ▁rich ▁old ▁man .	▁她 嫁 给 了一个 富有 的 老 男人 。
+▁I ▁saw ▁a ▁light ▁in ▁the ▁distance .	▁我看见 远 处 有 灯 光 。
+▁Tom ▁opened ▁the ▁sho e box ▁and ▁took ▁out ▁the ▁shoes .	▁汤姆 打开 鞋 柜 拿 出 鞋 。
+▁Tom ▁finished ▁college ▁last ▁year .	▁汤姆 去年 上 完了 大学 。
+▁She ▁attempted ▁to ▁kill ▁herself .	▁她 企 图 自 杀 。
+▁Which ▁way ▁should ▁we ▁go ?	▁我们应该 往 哪个 方 向 走 ?
+▁I ▁sp illed ▁my ▁coffee ▁on ▁the ▁carpet .	▁我把 咖啡 倒 翻 在地 毯 上了 。
+▁The ▁station ▁is ▁two ▁mil es ▁away .	▁ 车站 离 这里 两 英 里 远 。
+▁He ▁was ▁opp osed ▁to ▁mon op ol ies .	▁他 反对 垄 断 。 他 曾经 / 以前 反对 垄 断
+▁We ▁should ▁run ▁some ▁test s .	▁我们应该 进 行 测 试 。
+▁A ▁ball ▁is ▁flo ating ▁down ▁the ▁river .	▁一个 球 正 顺 流 而 下 。
+▁He ▁made ▁me ▁go ▁against ▁my ▁will .	▁他 让我 违 背 了我的 意 愿 。
+▁Cats ▁don ' t ▁eat ▁banan as .	▁猫 不 吃 香 蕉 。
+▁Be ▁happy ▁for ▁me .	▁ 为我 感到 高兴 吧 。
+▁Why ▁are ▁you ▁crying ?	▁你为什么 哭 ?
+▁Tom ▁is ▁the ▁head ▁of ▁the ▁company ▁in ▁name ▁only . ▁His ▁son ▁makes ▁all ▁the ▁important ▁dec is ions .	▁汤姆 名 义 上 市 公司 的 领 导 。 他 儿子 做 所有 重 大 决 策 。
+▁We ' re ▁both ▁reasonable ▁people .	▁我们是 两个 通 情 达 理 的人 。
+▁Tom ▁did ▁better ▁this ▁time ▁than ▁he ▁did ▁last ▁time .	▁汤姆 这 次 做得 比 上 次 好 。
+▁Stay ▁calm .	▁ 保持 冷静 。
+▁My ▁leg ▁was ▁b itten ▁by ▁that ▁dog .	▁我的 腿 被 那 只狗 咬 了 。
+▁I ▁always ▁study ▁hard .	▁我总是 用 功 读书 。
+▁I ▁want ▁to ▁have ▁my ▁own ▁room .	▁我想要 有 我 自己的 房间 。
+▁That ▁red ▁sweater ▁looks ▁good ▁on ▁you .	▁你 穿 那 件 红色的 毛衣 好 看 。
+▁I ' m ▁so ▁proud ▁of ▁my ▁boys .	▁我为 我的 孩子们 感到很 骄傲 。
+▁This ▁room ▁is ▁air - cond ition ed .	▁这个 房间 有空 调 。
+▁B anks ▁open ▁at ▁nine ▁o ' clock .	▁ 银行 九点 开门
+▁We ' ll ▁die ▁sooner ▁or ▁later .	▁我们 早 晚 要 死 。
+▁I ' m ▁sorry ▁I ▁wasn ' t ▁able ▁to ▁see ▁you ▁when ▁you ▁came ▁by ▁today .	▁我很抱歉 今天 您 来 的时候 没 能 见 您 。
+▁I ▁asked ▁twenty ▁friends ▁to ▁the ▁party .	▁我请 了 二十 位 朋友 参加 派对 。
+▁He ▁returned ▁from ▁China .	▁他从 中国 回来了 。
+▁He ▁must ▁be ▁the ▁principal .	▁他 一定是 校 长 。
+▁He ▁got ▁away ▁disg u ised ▁as ▁a ▁policeman .	▁他 伪 装 成 警察 逃 跑了 。
