@@ -75,35 +75,34 @@ def save_vocab_mappings(model_path='bpe.model', vocab_path='int2token.json', tok
 
 def main():
     # 文件路径配置
-    cmn_file = '/root/Homeworks/NLP/HW_Transformer/my_transformer/dataset/BPE_preprocess/cmn.txt'
-    en_file = '/root/Homeworks/NLP/HW_Transformer/my_transformer/dataset/BPE_preprocess/en.txt'
-    cn_file = '/root/Homeworks/NLP/HW_Transformer/my_transformer/dataset/BPE_preprocess/cn.txt'
-    vocab_size = 4000
+    cmn_file = '/root/Homeworks/NLP/HW_Transformer/my_transformer/dataset/combine_BPE_preprocess/cmn.txt'
+    en_file = '/root/Homeworks/NLP/HW_Transformer/my_transformer/dataset/combine_BPE_preprocess/en.txt'
+    cn_file = '/root/Homeworks/NLP/HW_Transformer/my_transformer/dataset/combine_BPE_preprocess/cn.txt'
+    merged_file = '/root/Homeworks/NLP/HW_Transformer/my_transformer/dataset/combine_BPE_preprocess/merged.txt'
+    vocab_size = 8000
+    model_prefix = 'bpe'
 
     # 步骤 1：提取中英文句子
     extract_en_cn(cmn_file, en_file, cn_file)
 
-    # 步骤 2：训练 BPE 模型
-    train_bpe_model(en_file, model_prefix='en_bpe',
-                    vocab_size=vocab_size, character_coverage=0.9995)
-    train_bpe_model(cn_file, model_prefix='cn_bpe',
+    # 步骤 2：合并中英文为统一文件
+    merge_files(en_file, cn_file, merged_file)
+
+    # 步骤 3：训练统一的 BPE 模型（建议 character_coverage=1.0 以覆盖中文）
+    train_bpe_model(merged_file, model_prefix=model_prefix,
                     vocab_size=vocab_size, character_coverage=1.0)
 
-    # 步骤 3：对中英文分别进行 BPE 分词
-    apply_bpe('en_bpe.model', en_file,
-              os.path.join('en_bpe'+str(vocab_size)+'.txt'))
-    apply_bpe('cn_bpe.model', cn_file,
-              os.path.join('cn_bpe'+str(vocab_size)+'.txt'))
+    # 步骤 4：对中英文分别使用统一模型进行 BPE 分词
+    apply_bpe(f'{model_prefix}.model', en_file,
+              os.path.join(f'en_bpe{vocab_size}.txt'))
+    apply_bpe(f'{model_prefix}.model', cn_file,
+              os.path.join(f'cn_bpe{vocab_size}.txt'))
 
+    # 步骤 5：保存映射
     save_vocab_mappings(
-        model_path='en_bpe.model',
-        vocab_path='int2token_en.json',
-        token2id_path='token2int_en.json'
-    )
-    save_vocab_mappings(
-        model_path='cn_bpe.model',
-        vocab_path='int2token_cn.json',
-        token2id_path='token2int_cn.json'
+        model_path=f'{model_prefix}.model',
+        vocab_path='int2token.json',
+        token2id_path='token2int.json'
     )
 
     print("[✓] 所有步骤完成!")

@@ -6121,7 +6121,7 @@
 ▁People ▁have ▁two ▁legs .	▁人 有 两 只 脚 。
 ▁There ▁was ▁no ▁water ▁in ▁the ▁river .	▁这条 河 的 水 干 了 。
 ▁All ▁of ▁us ▁would ▁like ▁to ▁get ▁rid ▁of ▁nu cle ar ▁we ap ons .	▁我们 所有 的人 都 想 除 掉 核 子 武 器 。
-▁I ▁like ▁sports .	▁我喜欢 运动 。
+▁y	▁我喜欢 运动 。
 ▁How ▁much ▁money ▁do ▁you ▁have ▁hid den ▁under ▁your ▁bed ?	▁你在 你的 床 下 面 藏 了 多少钱 ?
 ▁I ▁know ▁that ▁you ▁know ▁that ▁I ▁know .	▁我知道你 知道 我 知道 。
 ▁How ▁much ▁is ▁the ▁rent ▁per ▁month ?	▁一个 月 的 租 金 多少 ?
