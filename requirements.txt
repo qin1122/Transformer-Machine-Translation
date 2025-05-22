@@ -1,0 +1,8 @@
+wandb
+torch
+torchvision
+sentencepiece
+tqdm
+numpy
+nltk
+
