@@ -1,0 +1,18 @@
+model_path: ./results/result_1/vanilla_transformer.pth
+word2int_en: ./dataset/origin_preprocess/word2int_en.json
+int2word_cn: ./dataset/origin_preprocess/int2word_cn.json
+
+bos_idx: 1
+eos_idx: 2
+pad_idx: 0
+max_len: 50
+device: cuda
+
+vocab_size: [3922,3775]
+nhead: 8
+d_model: 1024
+num_encoder_layers: 6
+num_decoder_layers: 6
+dropout: 0.1
+use_pe: True
+norm_first: False

@@ -1,0 +1,36 @@
+seed: 42
+steps: 50000
+warmup_steps: 2000
+batch_size: 1024
+test_batch_size: 32
+nhead: 8
+d_model: 1024
+num_encoder_layers: 6
+num_decoder_layers: 6
+use_pe: True
+use_ls: True
+norm_first: False
+vocab_size: [8000,8000]
+dropout: 0.1
+lr: 1e-4
+betas: [0.9,0.98]
+warmup_init_lr: 1e-7
+warmup_end_lr: 1e-4
+pad_idx: 3
+dataset_type: combined  # 'combined', 'seperate', 'origin'
+device: cuda:0
+optimizer: Adam
+
+train_path: ./dataset/combine_BPE_preprocess/training.txt
+test_path: ./dataset/combine_BPE_preprocess/testing.txt
+val_path: ./dataset/combine_BPE_preprocess/validation.txt
+
+cn_model_path: ./dataset/combine_BPE_preprocess/bpe.model
+en_model_path: ./dataset/combine_BPE_preprocess/bpe.model
+
+output_path: ./results/result_18
+
+log_interval: 100
+val_interval: 500
+test_interval: 500
+accumulate_interval: 1

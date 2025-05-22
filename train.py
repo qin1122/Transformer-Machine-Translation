@@ -18,47 +18,53 @@ from decode_sentence import decode_sentencepiece_ids, decode_chinese_ids
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
 
 
-def train(model, device, writer, train_path, test_path, val_path, cn_model_path, en_model_path, vocab_size: list, test_batch_size=32, batch_size=32, max_steps=100000, learning_rate=0.001, pad_idx=3, output_path='./results'):
+def train(args, model, device, writer):
     # 创建数据集和DataLoader
-    train_dataset = TranslationDataset_se(
-        train_path, cn_model_path, en_model_path)
-    val_dataset = TranslationDataset_se(val_path, cn_model_path, en_model_path)
-    test_dataset = TranslationDataset_se(
-        test_path, cn_model_path, en_model_path)
+    if (args['dataset_type'] == 'origin'):
+        train_dataset = TranslationDataset_old(
+            args['train_path'][0], args['train_path'][1])
+        val_dataset = TranslationDataset_old(
+            args['val_path'][0], args['val_path'][1])
+        test_dataset = TranslationDataset_old(
+            args['test_path'][0], args['test_path'][1])
 
-    train_dataloader = DataLoader(
-        train_dataset, batch_size=batch_size, shuffle=True, collate_fn=collate_fn)
-    val_dataloader = DataLoader(
-        val_dataset, batch_size=test_batch_size, shuffle=False, collate_fn=collate_fn)
-    test_dataloader = DataLoader(
-        test_dataset, batch_size=test_batch_size, shuffle=False, collate_fn=collate_fn)
+        train_dataloader = DataLoader(
+            train_dataset, batch_size=args['batch_size'], shuffle=True)
+        val_dataloader = DataLoader(
+            val_dataset, batch_size=args['test_batch_size'], shuffle=False)
+        test_dataloader = DataLoader(
+            test_dataset, batch_size=args['test_batch_size'], shuffle=False)
+    else:
+        train_dataset = TranslationDataset_se(
+            args['train_path'], args['cn_model_path'], args['en_model_path'])
+        val_dataset = TranslationDataset_se(
+            args['val_path'], args['cn_model_path'], args['en_model_path'])
+        test_dataset = TranslationDataset_se(
+            args['test_path'], args['cn_model_path'], args['en_model_path'])
 
-    # train_dataset = TranslationDataset_old(train_path[0], train_path[1])
-    # val_dataset = TranslationDataset_old(val_path[0], val_path[1])
-    # test_dataset = TranslationDataset_old(test_path[0], test_path[1])
-    # train_dataset = TranslationDataset(train_path, cn_model_path)
-    # val_dataset = TranslationDataset(val_path, cn_model_path)
-    # test_dataset = TranslationDataset(test_path, cn_model_path)
+        train_dataloader = DataLoader(
+            train_dataset, batch_size=args['batch_size'], shuffle=True, collate_fn=collate_fn)
+        val_dataloader = DataLoader(
+            val_dataset, batch_size=args['test_batch_size'], shuffle=False, collate_fn=collate_fn)
+        test_dataloader = DataLoader(
+            test_dataset, batch_size=args['test_batch_size'], shuffle=False, collate_fn=collate_fn)
 
-    # train_dataloader = DataLoader(
-    #     train_dataset, batch_size=batch_size, shuffle=True)
-    # val_dataloader = DataLoader(
-    #     val_dataset, batch_size=test_batch_size, shuffle=False)
-    # test_dataloader = DataLoader(
-    #     test_dataset, batch_size=test_batch_size, shuffle=False)
-
-    log_interval = 100
-    val_interval = 500
-    test_interval = 500
-    accumulate_interval = 8
+    log_interval = args['log_interval']
+    val_interval = args['val_interval']
+    test_interval = args['test_interval']
+    accumulate_interval = args['accumulate_interval']
 
     # 定义损失函数和优化器
-    criterion = nn.CrossEntropyLoss(
-        ignore_index=pad_idx, label_smoothing=0.1)  # 忽略pad token的损失
+    if args['use_ls']:
+        criterion = nn.CrossEntropyLoss(
+            ignore_index=args['pad_idx'], label_smoothing=0.1)
+    else:
+        criterion = nn.CrossEntropyLoss(
+            ignore_index=args['pad_idx'])
     optimizer = optim.Adam(
-        model.parameters(), lr=learning_rate, betas=[0.9, 0.98])
+        model.parameters(), lr=args['lr'], betas=args['betas'])
     scheduler = InverseSquareRootScheduler(
-        optimizer, warmup_init_lr=1e-7, warmup_end_lr=learning_rate, warmup_steps=2000)
+        optimizer, warmup_init_lr=args['warmup_init_lr'], warmup_end_lr=args['warmup_end_lr'], warmup_steps=args['warmup_steps'])
 
     step = 0
     total_loss = 0.0
@@ -66,10 +72,10 @@ def train(model, device, writer, train_path, test_path, val_path, cn_model_path,
 
     print("----------Start Training----------")
 
-    with tqdm(total=max_steps, desc=f"Training", ncols=100) as pbar:
-        while step < max_steps:
+    with tqdm(total=args['steps'], desc=f"Training", ncols=100) as pbar:
+        while step < args['steps']:
             for src, tgt in train_dataloader:
-                if step >= max_steps:
+                if step >= args['steps']:
                     break
 
                 model.train()
@@ -80,7 +86,7 @@ def train(model, device, writer, train_path, test_path, val_path, cn_model_path,
                 optimizer.zero_grad()
                 output = model(src.to(device), tgt_input)
 
-                output = output.contiguous().view(-1, vocab_size[1])
+                output = output.contiguous().view(-1, args['vocab_size'][1])
                 tgt_target = tgt_target.contiguous().view(-1)
 
                 loss = criterion(output, tgt_target)
@@ -112,7 +118,7 @@ def train(model, device, writer, train_path, test_path, val_path, cn_model_path,
                     eval_loss = evaluate_loss(
                         model, val_dataloader, criterion, device)
                     eval_bleu = evaluate_bleu(
-                        model, val_dataloader, device, pad_idx=pad_idx)
+                        model, val_dataloader, device, pad_idx=args['pad_idx'])
                     writer.log({
                         "eval_loss": eval_loss,
                         "eval_bleu_score": eval_bleu
@@ -120,7 +126,7 @@ def train(model, device, writer, train_path, test_path, val_path, cn_model_path,
 
                 if step % test_interval == 0:
                     test_bleu = test_bleuscore(
-                        model, test_dataloader, device, max_test_bleu, pad_idx=pad_idx, output_p=output_path)
+                        model, test_dataloader, device, max_test_bleu, pad_idx=args['pad_idx'], output_p=args['output_path'])
                     if max_test_bleu < test_bleu:
                         max_test_bleu = test_bleu
                     writer.log({
@@ -132,7 +138,7 @@ def train(model, device, writer, train_path, test_path, val_path, cn_model_path,
 
     # 存储模型参数
     torch.save(model.state_dict(), os.path.join(
-        output_path, "vanilla_transformer.pth"))
+        args['output_path'], "vanilla_transformer.pth"))
     # print(f"模型参数已保存到 {os.path.join(output_path,"vanilla_transformer.pth")}")
 
 
