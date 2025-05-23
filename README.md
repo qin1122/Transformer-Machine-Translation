@@ -11,18 +11,19 @@
 ### Installation
 1. Clone repo
 
-    ```bash
-    git clone https://github.com/qin1122/Transformer-Machine-Translation.git
-    cd Transformer-Machine-Translation
-    ```
+```bash
+git clone https://github.com/qin1122/Transformer-Machine-Translation.git
+cd Transformer-Machine-Translation
+```
+
 2. Install dependent packages (use conda)
 
-    ```bash
-    conda create --name transformer
-    conda activate transformer
-    conda install python
-    pip install -r requirements.txt
-    ```
+```bash
+conda create --name transformer
+conda activate transformer
+conda install python
+pip install -r requirements.txt
+```
 
 ## 🗂️ Datasets
 
@@ -36,17 +37,17 @@ Create a new yaml config file or use my config files (e.g. './configs/train_1.ya
 
 Then run:
 
-    ```bash
-    python main.py --config 'configs/config.yaml'
-    ```
+```bash
+python main.py --config 'configs/config.yaml'
+```
 
 You can monitor the training process in real time on [Weights & Biases (wandb)](https://wandb.ai).
 
 > To use wandb, you have to login in terminal first, use the command below to login:
 
-    ```bash
-    wandb login
-    ```
+```bash
+wandb login
+```
 
 ## ⚡️ Quick Test
 
@@ -54,9 +55,9 @@ Create a new yaml config file or use my config files (e.g. './configs/test_origi
 
 Then run:
 
-    ```bash
-    python test.py --config 'configs/config.yaml'
-    ```
+```bash
+python test.py --config 'configs/config.yaml'
+```
 
 ## 🏰 Model Zoo
 
